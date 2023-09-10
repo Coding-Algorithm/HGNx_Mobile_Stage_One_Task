@@ -1,4 +1,16 @@
-## Step 1: Start the Metro Server
+## Step 1: Install The Dependencies
+
+
+```bash
+# using npm
+npm i
+
+# OR using Yarn
+yarn install
+```
+
+
+## Step 2: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
 
@@ -12,7 +24,7 @@ npm start
 yarn start
 ```
 
-## Step 2: Start your Application
+## Step 3: Start the Application
 
 Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
 
@@ -25,8 +37,3 @@ npm run android
 # OR using Yarn
 yarn android
 ```
-
-
-
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ # HGNx_Mobile_Stage_One_Task
