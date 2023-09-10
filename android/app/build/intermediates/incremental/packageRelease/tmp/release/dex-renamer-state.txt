@@ -1,0 +1,4 @@
+#Sun Sep 10 10:53:52 WAT 2023
+base.0=/home/codingalgorithm/Documents/programming/learning/mobile_stage_one_task/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
