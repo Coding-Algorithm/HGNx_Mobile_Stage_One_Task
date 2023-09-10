@@ -37,3 +37,11 @@ npm run android
 # OR using Yarn
 yarn android
 ```
+
+
+
+
+
+# Assumptions Made
+
+No significant assumption made, I draw my understanding from the requirement and does not think I made any significant assumption that's not speicified in the requirement.
